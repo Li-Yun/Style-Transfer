@@ -13,3 +13,4 @@ python style_transfer.py --content_img_path=<path to a content image>
 ```
 
 # Transferred Image
+![Image description](/transferred_image/space_needle_and_kahlo.png)
