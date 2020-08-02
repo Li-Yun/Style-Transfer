@@ -7,5 +7,6 @@ This script has been tested on anaconda3 and PyTorch 0.4.0.
 
 Transferred Image Generation:
 ```
-python main.py --max-ep=1000 --lr=0.1
+python style_transfer.py --content_img_path=<path to a content image> --style_img_path=<path to a style image> --output_img_dir_path=<path to an output image directory>
 ```
+
